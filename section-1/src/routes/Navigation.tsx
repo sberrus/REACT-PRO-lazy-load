@@ -5,7 +5,6 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-import { LazyPage1, LazyPage3, Lazypage2 } from "../01-lazyload/pages";
 import { routes } from "./Routes";
 
 const Navigation = () => {

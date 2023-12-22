@@ -1,5 +1,5 @@
-const Lazypage2 = () => {
+const LazyPage2 = () => {
   return <h1>LazyPage2</h1>;
 };
 
-export default Lazypage2;
+export default LazyPage2;
